@@ -1,0 +1,3 @@
+D:/Tugas dan Project/Project/C/WC/Soal 3/cmake-build-debug/CMakeFiles/Soal_3.dir
+D:/Tugas dan Project/Project/C/WC/Soal 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Tugas dan Project/Project/C/WC/Soal 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
